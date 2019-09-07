@@ -1,0 +1,10 @@
+GeckoDriver for Arm6 Raspberry Pi
+https://github.com/d0ku/GeckoDriver_ARMv6/releases/tag/v.0.24.0
+
+Instructions for making it work
+1) download file and put into path: /usr/local/share/gecko_driver/
+
+2) make the file executable: chmod +x geckodriver
+
+3) add path to the file and add argument webdriver.Firefox(executable_path=driverpath)
+
