@@ -1,1 +1,1 @@
-*.log
+*.log, *.ipynb_checkpoints, *checkpoint*
